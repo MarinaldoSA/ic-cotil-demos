@@ -1,0 +1,124 @@
+form
+{
+  text-align: center;
+}
+
+body
+{
+    font-family: sans-serif;
+    background-color: #0D1F26;
+}
+
+p {
+  color: red;
+  margin-top: 10px;
+}
+
+label
+{
+  color:green;  
+  font-weight: bold;
+}
+
+input
+{
+  border-radius: 2px;
+  border-color: #265E73;
+}
+
+input:hover 
+{
+  background-color: darkgray;
+  border-color: #265E73;
+}
+
+input:focus 
+{
+  background-color: lightgray;
+  border-color: #265E73;
+  color: #265E73;
+}
+
+.text
+{
+  width: 25%;
+  height: 30px;     
+  background-color: white;
+  border-radius: 1px;
+  margin-top: 5px;  
+}
+
+#login {
+  text-align: center;
+  box-shadow: 7px 6px 3px black;
+  background-color: white; 
+  margin-top: 5.7%;
+  padding-top: 15px; 
+  padding-bottom: 15px;
+  border-radius: 40px;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #990000;
+}
+
+#top {
+  background-color:white;
+  color: blue;
+  padding-top: 2%;
+  font-family: Impact;
+  text-align: center;
+}
+
+.button 
+{
+  width: 30%;
+  color:black;
+  font-size: 18px;
+  border-radius: 5px;
+  padding: 10px 0px 10px 0px;
+  background-color: white;
+  border-top: 3px solid #265E73;
+  border-left: 3px solid #265E73;
+  border-bottom: 3px solid #265E73;
+  border-right: 3px solid #265E73;
+}
+
+.button:hover 
+{
+  background-color: lightgrey;
+  border-top: 3px solid #265E73;
+  border-left: 3px solid #265E73;
+  border-bottom: 3px solid #265E73;
+  border-right: 3px solid #265E73;
+}
+
+.bordForm
+{
+  text-align: center;
+  box-shadow: 7px 6px 3px black;
+  border-color: #265E73;
+  border-radius: 10000px;
+  border-style: solid;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: white;
+  margin-top: 13%;
+  padding-top: 15px; 
+  padding-bottom: 15px;
+}
+
+.cabecalho
+{
+  text-align: center;
+  color: #265E73;
+  text-shadow: 1px 1px #265E73;
+  background-color: white;
+}
+
+.disc
+{
+  color: green;
+   text-align: center;
+}

@@ -1,0 +1,13 @@
+{
+    "name": "matioli/web-crawler",
+    "authors": [
+        {
+            "name": "J. A. Matioli",
+            "email": "matioli@unicamp.br"
+        }
+    ],
+    "require": {
+        "spatie/crawler": "^4.7",
+        "fabpot/goutte": "^4.0"
+    }
+}

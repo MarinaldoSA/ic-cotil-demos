@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>XSS</title>
+</head>
+<body>
+<form>
+	<label for="oi">OIa</label>
+	<input type="text" name="oi" size="50">
+	<script>alert(document.cookie)</script>
+	
+</form>
+</body>
+</html>
